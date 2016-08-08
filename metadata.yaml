@@ -1,0 +1,36 @@
+_repo: The-Author-s-Craft_12743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: As well as with his novels, much of Arnold Bennett's non-fiction work
+  has stood the test of time. One of his most popular non-fiction works, which is
+  still read to this day, is the self-help book "How to Live on 24 Hours a Day". His
+  diaries have yet to be published in full, but extracts from them are often quoted
+  in the British press. Bennett also wrote for the stage and the screen. The Author's
+  Craft, contains some of Bennett's essays on the art of writing, with his thoughts
+  on applying the craft to both novel and play writing ...
+gutenberg_issued: '2004-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Seeing Life -- Writing Novels -- Writing Plays -- The Artist and
+  the Public.
+title: The Author's Craft
+url: http://www.gutenberg.org/ebooks/12743
