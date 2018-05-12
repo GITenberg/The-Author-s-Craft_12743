@@ -1,5 +1,8 @@
 _repo: The-Author-s-Craft_12743
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -18,6 +21,8 @@ description: As well as with his novels, much of Arnold Bennett's non-fiction wo
   in the British press. Bennett also wrote for the stage and the screen. The Author's
   Craft, contains some of Bennett's essays on the art of writing, with his thoughts
   on applying the craft to both novel and play writing ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12743#The-Author-s-Craft
 gutenberg_issued: '2004-06-25'
 gutenberg_type: Text
 identifiers:
